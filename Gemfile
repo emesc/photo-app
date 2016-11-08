@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views', '~> 0.0.9'
+gem 'stripe', '~> 1.56'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
